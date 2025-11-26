@@ -1,0 +1,42 @@
+{"image_id": "000000000283", 
+"captions": {
+    "correct": "A bottle of red wine and a glass on a glass table", 
+    "incorrect": "A bottle of white wine and a cup on a glass table"
+}, 
+"questions": {
+    "L0": "What is a common item found on dining tables?", 
+    "L1": "What color is the wine in the bottle?", 
+    "L2": "What type of container is holding the wine?", 
+    "L3": "Why might someone place a chair near a table outside?"
+}, 
+"answers": {
+    "correct_caption": {
+        "L0": "A common item found on dining tables is a bottle of wine, as seen in the image with a bottle of red wine and a glass on a glass table. Wine is often served during meals, and it can be enjoyed with", 
+        "L1": "The wine in the bottle is red.", 
+        "L2": "The wine is held in a glass bottle.", 
+        "L3": "Someone might place a chair near a table outside for various reasons, such as enjoying a meal, having a conversation, or simply relaxing and taking in the outdoor ambiance. Outdoor dining can be a pleasant experience, especially"
+    }, 
+    "incorrect_caption": {
+        "L0": "A common item found on dining tables is a bottle of wine, as seen in the image with a bottle of white wine and a cup on a glass table. Wine is often served during meals, and it can be enjoyed with", 
+        "L1": "The wine in the bottle is white.", 
+        "L2": "The wine is being held in a glass bottle.", 
+        "L3": "Someone might place a chair near a table outside for various reasons, such as enjoying a meal, having a conversation, or simply relaxing and taking in the outdoor ambiance. Outdoor dining can be a pleasant experience, especially"
+    }}, 
+"eval_scores": {
+    "L0": {
+        "correct_caption_score": 0, 
+        "incorrect_caption_score": 0
+    }, 
+    "L1": {
+        "correct_caption_score": 1, 
+        "incorrect_caption_score": 0
+    }, 
+    "L2": {
+        "correct_caption_score": 1, 
+        "incorrect_caption_score": 1
+    }, 
+    "L3": {
+        "correct_caption_score": 1, 
+        "incorrect_caption_score": 0
+    }
+}}

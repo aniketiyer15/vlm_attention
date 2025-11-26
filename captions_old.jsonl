@@ -1,0 +1,42 @@
+{"image_id": "000000000283", 
+"captions": {
+    "correct": "A bottle of red wine and a glass on a glass table", 
+    "incorrect": "A bottle of white wine and a cup on a glass table"
+}, 
+"questions": {
+    "L0": "What is the usual purpose of a container in dining?", 
+    "L1": "What color is the wine bottle in the image?", 
+    "L2": "What type of drinking vessel is on the table?", 
+    "L3": "Why might someone choose to sit outside on a patio?"
+}, 
+"answers": {
+    "correct_caption": {
+        "L0": "To hold liquid",
+        "L1": "To hold liquid",
+        "L2": "Red",
+        "L3": "To hold liquid"
+    },
+    "incorrect_caption": {
+        "L0": "To hold liquid",
+        "L1": "To hold liquid",
+        "L2": "White",
+        "L3": "To hold liquid"
+    }}, 
+"eval_scores": {
+    "L0": {
+        "correct_caption_score": 1, 
+        "incorrect_caption_score": 1
+    },
+    "L1": {
+        "correct_caption_score": 0,
+        "incorrect_caption_score": 0
+    },
+    "L2": {
+        "correct_caption_score": 0,
+        "incorrect_caption_score": 0
+    },
+    "L3": {
+        "correct_caption_score": 0,
+        "incorrect_caption_score": 0
+    }
+}}
